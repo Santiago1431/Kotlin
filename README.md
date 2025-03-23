@@ -16,4 +16,4 @@ Abaixo estão alguns conceitos básicos que foram parcialmente ignorados durante
 ## Estrutura de Dados  
 Parte importante do curso. Mesmo que algumas estruturas sejam conhecidas, há diferenciais na implementação em Kotlin que merecem atenção.  
 
-- **Vetores**  
+- [Arrays](https://grandiose-collision-029.notion.site/VETORES-1bfb275189c280a2badcd5135d1eeb29?pvs=4)  
